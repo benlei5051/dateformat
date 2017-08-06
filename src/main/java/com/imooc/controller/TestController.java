@@ -17,6 +17,7 @@ import java.util.Date;
 @Controller
 public class TestController {
     //test
+    //remote test
 
     //todo     http://localhost:8080/baseType.do?age=10
     //todo 500 http://localhost:8080/baseType.do
